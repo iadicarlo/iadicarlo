@@ -6,7 +6,7 @@ subtitle: (Paleo)climate scientist
 
 profile:
   align: right
-  image: IMG_9528.JPG
+  image: rwanda.jpg #IMG_9528.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
 
