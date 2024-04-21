@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: papers
-description: "(&#x2A) denotes equal contribution"
+description: 
 years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2016]
 nav: true
 nav_order: 2
