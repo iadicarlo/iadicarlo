@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
+subtitle: (Paleo)climate scientist
 
 profile:
   align: right
